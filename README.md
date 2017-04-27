@@ -1,1 +1,3 @@
-# python_learnnotes
+# python learn notes
+
+#### first learn base thougt leetcode
